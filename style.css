@@ -1,0 +1,12 @@
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    transition: 0.5s;
+}
+.box-2{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    transition: 0.5s;
+}
